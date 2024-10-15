@@ -8,6 +8,6 @@
 ## Projetos
 - [Web Standards](https://github.com/ManuHly/Web-Standard---Sprint-3-) - Um projeto web interativo utilizando HTML, CSS e JavaScript, para compra de itens de festa.
 
-- ## Contato
+## Contato
 - [LinkedIn](www.linkedin.com/in/emanuelle-barros)
 - [Email](emanuelle.lorrany13@gmail.com)
