@@ -6,7 +6,7 @@
 🔍 Em aprendizado contínuo.
 
 ## Projetos
-- [Nome do Projeto 1](https://github.com/ManuHly/Web-Standard---Sprint-3-) - Projeto Web para compra de itens de festa.
+- [Web Standards](https://github.com/ManuHly/Web-Standard---Sprint-3-) - Um projeto web interativo utilizando HTML, CSS e JavaScript, para compra de itens de festa.
 
 - ## Contato
 - [LinkedIn](www.linkedin.com/in/emanuelle-barros)
