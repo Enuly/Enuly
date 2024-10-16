@@ -12,7 +12,8 @@
 <div>
   <h3 align="left">Projetos</h3>
   <a href="https://enuly.github.io/Projeto-TecBlog/">TecBlog</a> - Um projeto web para prática de HTML e CSS.<br>
-  <a href="https://github.com/ManuHly/Web-Standard---Sprint-3-">Web Standards</a> - Um projeto web interativo utilizando HTML, CSS e JavaScript, para compra de itens de festa.
+  <a href="https://github.com/ManuHly/Web-Standard---Sprint-3-">Web Standards</a> - Um projeto web interativo utilizando HTML, CSS e JavaScript, para compra de itens de festa.<br>
+  <a href="https://enuly.github.io/projeto-angular/">Projeto angular</a> - Atividade em Angular CLI com uso do material.
 </p>
 </div>
 
