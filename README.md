@@ -1,4 +1,4 @@
-<h2 align="left">Hello Word, eu sou Emanuelle Barros 👋💜</h2>
+<h2 align="left">Hello World, eu sou Emanuelle Barros 👋💜</h2>
 
 <p align="left">
     🔭 Estudante de Análise e Desenvolvimento de Sistemas.<br>
